@@ -7,10 +7,11 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="65" height="65" />
 </div>
 
-<h3 align="center">🚀 Data Scientist | 📊 Machine Learning | 🤖 AI Generative</h3>
+<h3 align="center">🚀 Data Scientist | 📊 Machine Learning | ❄️ Snowflake | 🤖 AI Generative</h3>
 
 ---
 
