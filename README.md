@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Capsule render](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jesús_Efrey%20Gomez)
+![Capsule render](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jesús Efrey%20Gomez)
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
@@ -10,7 +10,7 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-<h3 align="center">🚀 Data Scientist | 📊 Machine Learning | 🤖 AI Enthusiast</h3>
+<h3 align="center">🚀 Data Scientist | 📊 Machine Learning | 🤖 AI Generative</h3>
 
 ---
 
