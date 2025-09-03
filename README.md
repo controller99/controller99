@@ -56,7 +56,7 @@
 ---
 
 ### 🌐 Conecta conmigo  
-<a href="https://www.linkedin.com/in/tuusuario/" target="www.linkedin.com/in/jesús-efrey-gomez-tellez-ab043113a">
+<a href="https://www.linkedin.com/in/jesús-efrey-gomez-tellez-ab043113a" target="www.linkedin.com/in/jesús-efrey-gomez-tellez-ab043113a">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:controller.cca@gmail.com">
