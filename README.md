@@ -4,6 +4,8 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="ruta/a/snowflake-icon.svg" alt="Snowflake" width="65" height="65" /> &nbsp;
+  <img src="ruta/a/sql-icon.svg" alt="SQL" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
