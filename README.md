@@ -8,7 +8,7 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdiNjAwM2Q1NmE1MTZmNTFjMzg0NDg5ZDY3YzljMjgxZDJmZTQ5ZCZjdD1n/3o7btMCltyDvSgF92E/giphy.gif" alt="Snowflake" width="95" height="95" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="100" height="100" />
 </div>
 
 <h3 align="center">🚀 Data Scientist | 📊 Machine Learning | ❄️ Snowflake | 🤖 AI Generative</h3>
