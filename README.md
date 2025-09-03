@@ -1,8 +1,15 @@
-<p align="center">
-  <img src="https://i.ibb.co/9bz1rH5/banner-data-scientist.png" alt="banner" />
-</p>
+## Hi there 👋
 
-<h2 align="center">👨‍💻 [Tu Nombre]</h2>
+![Capsule render](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jesús_Efrey%20Gomez)
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+</div>
+
 <h3 align="center">🚀 Data Scientist | 📊 Machine Learning | 🤖 AI Enthusiast</h3>
 
 ---
