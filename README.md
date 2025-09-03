@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Capsule render](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jesús Efrey%20Gomez)
+![Capsule render](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jesús%20Efrey%20Gomez)
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
